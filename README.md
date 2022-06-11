@@ -1,4 +1,4 @@
-## Oi eu sou Lucas Ferreira, DevOps e Programador!
+## Oi eu sou Lucas Ferreira, DevOps e amante de programação e tecnologia!!!
 <div align="center">
   <a href="https://github.com/lukasdext">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukasdext&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
