@@ -13,6 +13,7 @@
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lucas-Aws" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/aws-3215369-2673787.png">
+  <img align="center" alt="Lucas-Aws" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1200px-Microsoft_Azure_Logo.svg.png">
   
   
 
