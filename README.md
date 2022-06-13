@@ -1,9 +1,10 @@
 ## Oi eu sou Lucas Ferreira, DevOps e amante de programação e tecnologia!!!
 <div align="center">
   <a href="https://github.com/lukasdext">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukasdext&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasdext&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lukasdext&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasdext&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Devops" height="40" width="40" src="https://cdn-icons.flaticon.com/png/512/5687/premium/5687273.png?token=exp=1654969025~hmac=8033cc4e81e1410401ae3bc468bd38f9">
