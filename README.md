@@ -28,7 +28,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/lukasdext/lukasdext/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/lukasdext/lukasdext/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
